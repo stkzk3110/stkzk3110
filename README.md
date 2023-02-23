@@ -9,6 +9,15 @@
 |Qiita|[@cube_3110](https://qiita.com/cube_3110)|
 |Zenn|[@cube_3110](https://zenn.dev/cube_3110)|
 
+## 各種アカウント
+<p>
+<a href="https://github.com/stkzk3110" target="_blank"><img alt="Github" src="https://img.shields.io/badge/stkzk3110-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/cube_3110" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@cube_3110-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://qiita.com/cube_3110" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/cube_3110-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+<a href="https://zenn.dev/cube_3110" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/cube_3110-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://speakerdeck.com/cube_3110" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/cube_3110-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
+</p>
+
 ## スキル
 ### 言語
 - Ruby
