@@ -1,3 +1,11 @@
+<p>
+  <img height="150px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=stkzk3110&show_icons=true&count_private=true&theme=dark'>
+  <img height="150px" src='https://github-readme-stats.vercel.app/api?username=stkzk3110&show_icons=true&count_private=true&theme=dark'>
+</p> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=stkzk3110&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 職務経歴書
 
 ## 基本情報
@@ -5,9 +13,6 @@
 |key|value|
 |---|-----|
 |Name|Kazuki Saito|
-|Twitter|[@cube_3110](https://twitter.com/cube_3110)|
-|Qiita|[@cube_3110](https://qiita.com/cube_3110)|
-|Zenn|[@cube_3110](https://zenn.dev/cube_3110)|
 
 ## 各種アカウント
 <p>
@@ -63,33 +68,12 @@
 
 ### 2020/06 - 現在 : 株式会社SUPER STUDIO
 
-職務: バックエンドエンジニア
+- ecforce開発MGR（2021/10~現在）
+- ecforce開発メンバー（2020/06~2021/09）
+- 決済機能や認証機能などECに必要な幅広い機能の開発を担当。
+- 開発組織へのスクラムの導入や本番リリース、テストインサイトの導入など機能開発以外の領域も必要に応じて、横軸で担当。
 
-#### メインプロダクトの開発
+### 2019/10 - 2020/04 : 株式会社ロジレス
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
-
-職務: サーバーサイドエンジニア
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
-
-## 課外活動
-
-### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
-
-### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
-
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
-
-### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+- LOGILESS開発メンバー（2019/10~2020/04）
+- 外部API連携の開発やSymfonyの2.8→3.4バージョンアップ対応などを担当。
